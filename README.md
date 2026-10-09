@@ -1,2 +1,2 @@
-# ryno-hub
+# Ryno-Hhub
 HomeAssistant Family Hub 
